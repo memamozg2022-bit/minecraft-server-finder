@@ -1,0 +1,5 @@
+aiohttp==3.9.1
+asyncio-contextmanager==1.0.0
+PyQt6==6.6.1
+qasync==0.27.1
+python-nbtlib==2.0.4
